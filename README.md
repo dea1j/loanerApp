@@ -1,6 +1,6 @@
 # Loaner
 A Financial Technology Application for lending money  (Digital Lending)
-### Tools
+### Tools Used
 <li>ReactJs</li>
 <li>Redux</li>
 <li>NodeJs</li>
